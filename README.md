@@ -22,13 +22,13 @@ displays the temperature on the 4-digit 7-segment display. The user can thus mon
 ambient temperature in real time and react to any significant changes.
 
 List of Required Modules (Bill of Materials):
-Arduino Nano R3
-Breadboard 830p
-74HC595 IC
-4 Digit 7-Segment Display
-8 x 220 ohm resistors
-1 x 330 ohm resistors (for LED)
-1 x 10k ohm resistor (for the thermistor)
-Thermistor
-light
-M-M wires (Male to Male jumper wires)
+Arduino Nano R3,
+Breadboard 830p,
+74HC595 IC,
+4 Digit 7-Segment Display,
+8 x 220 ohm resistors,
+1 x 330 ohm resistors (for LED),
+1 x 10k ohm resistor (for Thermistor),
+Thermistor,
+LED,
+M-M wires (Male to Male jumper wires).
